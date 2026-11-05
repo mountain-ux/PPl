@@ -1,0 +1,18 @@
+{
+    "name": "TAMUIN — Event Check-in Kiosk PWA",
+    "short_name": "TAMUIN Kiosk",
+    "description": "Sistem PWA Buku Tamu & Absensi Event Offline-First (Universitas Sulawesi Barat)",
+    "start_url": "/kiosk",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#2563eb",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%232563eb'/><text x='50' y='68' font-family='Arial,sans-serif' font-size='58' font-weight='bold' fill='white' text-anchor='middle'>T</text></svg>",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
